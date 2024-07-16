@@ -1,0 +1,185 @@
+{
+  "v1.3.0": {
+    "AddresslistVotingSetup": {
+      "address": "0x437eD31bCDE0B9FFe3454bb185a0d37988e2A0cd",
+      "blockNumber": 3032240,
+      "deploymentTx": "0xc99c127e4711aef78b97acc8e8707f6bcb5b8a90dd46c310351c6d5b0122e773"
+    },
+    "AddresslistVotingSetupImplementation": {
+      "address": "0xF456370dcCC74367f7Ae7A02cC551bdDd93cceF6",
+      "blockNumber": 3032240,
+      "deploymentTx": "0xc0a4ef66111726d1cc7aba28af65c63d219803cb3329806c67d140d1cd2275c3"
+    },
+    "AdminSetup": {
+      "address": "0x363a10dCF9B23dAebf38ec3823081dB6328EF5BD",
+      "blockNumber": 3032251,
+      "deploymentTx": "0xf27588c6f2fa11c1b32f33b27177136e30799ccf523e83e95f9c81eb91a08b4d"
+    },
+    "AdminSetupImplementation": {
+      "address": "0x51b3Fd3fFF26887d32685122e6D0075d569d2f56",
+      "blockNumber": 3032251,
+      "deploymentTx": "0xfed684452102413491dbbd1d1b28d7eb0e470b7226bb1064ed56b2a3642be599"
+    },
+    "DAOBase": {
+      "address": "0x44Ccc3aA4cDF93f46198a9F404E5d38964Af6239",
+      "blockNumber": 3032225,
+      "deploymentTx": "0x7397011b21ff18e9d6231568e35c38a0346d1f3b3a4578de6de4d06a0d66b76f"
+    },
+    "DAOFactory": {
+      "address": "0x2cF60328b05dd4Dc8D12E0719309F041cc590Fea",
+      "blockNumber": 3032225,
+      "deploymentTx": "0x7397011b21ff18e9d6231568e35c38a0346d1f3b3a4578de6de4d06a0d66b76f"
+    },
+    "DAORegistryProxy": {
+      "address": "0xBCfc761c28029517Bc47AF499980410121EDA660",
+      "blockNumber": 3032212,
+      "deploymentTx": "0xb7c13b3581bf583af862673a21d91400e17e25a6110513b9650d333f102d9758"
+    },
+    "DAORegistryImplementation": {
+      "address": "0xCe38c833424561014Aa43eE1a165730FD87826A5",
+      "blockNumber": 3032210,
+      "deploymentTx": "0x12747d54b39dca45c4cf33129e789115ac7fb0a7e65693aa124560e5ee4ebd05"
+    },
+    "DAOENSSubdomainRegistrarProxy": {
+      "address": "0x4d0E57Bc07e5333720213b9f5c41737221855363",
+      "blockNumber": 3032200,
+      "deploymentTx": "0x30227c2056b082d3b5bdfdcfa8230993377cb75d656926819be1b23652982d67"
+    },
+    "DAOENSSubdomainRegistrarImplementation": {
+      "address": "0xbfE65E92f8b41a9bC07FEC4790fD388E2561DFA8",
+      "blockNumber": 3032198,
+      "deploymentTx": "0xf7b7c45405244ddb83b0cb54a3b77cad6b39e78ec4a2e08e2f4599647748dba4"
+    },
+    "ENSRegistry": {
+      "address": "0xb3339fac8158459B34Ed51154035642B3240d5b3",
+      "blockNumber": 3032180,
+      "deploymentTx": "0x8f9e09eea0133105dd651aa8f0b6da1041f8e008e43900716478100e6ff219cf"
+    },
+    "GovernanceERC20": {
+      "address": "0x97eb24b34Ed47aEb6071BBD05cbe0F299517AcD3",
+      "blockNumber": 3032243,
+      "deploymentTx": "0x7833284f0b1e5948412caf45bb2d949d46827f03b8be1b940f5b929efc76971a"
+    },
+    "GovernanceWrappedERC20": {
+      "address": "0x54bB9b7405c25A2cb173Dc1794820d20610CD47A",
+      "blockNumber": 3032246,
+      "deploymentTx": "0xf996a2868f811a8f8a4b752ce7cb3d6a510c9bcfac997cfed2e76868822d0586"
+    },
+    "MultisigSetup": {
+      "address": "0x4d652304d9CfDbaD6fa84F90de8f32b24D56670f",
+      "blockNumber": 3032254,
+      "deploymentTx": "0x8dd283f9eb78ee5d7c8effafe20d5ac7e7ffd9182bdb68636ca14f008bfb4dbe"
+    },
+    "MultisigSetupImplementation": {
+      "address": "0xe244BC4daf2f447Be98cA4eC61796F916D065089",
+      "blockNumber": 3032254,
+      "deploymentTx": "0x8dd283f9eb78ee5d7c8effafe20d5ac7e7ffd9182bdb68636ca14f008bfb4dbe"
+    },
+    "PlaceholderSetup": {
+      "address": "0x847e77b590F956A909129C4945db30539d5Db9c5",
+      "blockNumber": 3032256,
+      "deploymentTx": "0xe0a3029b92de647940fb41c3b920f4421be4101b87f5ebd74639ca3882b7f2e4"
+    },
+    "PluginRepoBase": {
+      "address": "0x70e12F02b1610a6aE067e252d8cc09C713Bb35B4",
+      "blockNumber": 3032219,
+      "deploymentTx": "0xdde9dd03665822c6ed3f7eb5306f885cb658c660ac397a02c7f834fcebb70670"
+    },
+    "PluginRepoFactory": {
+      "address": "0xBcE38E2dbF0C44E3ef243C7cb2Bd6Fb0b460be9d",
+      "blockNumber": 3032219,
+      "deploymentTx": "0xdde9dd03665822c6ed3f7eb5306f885cb658c660ac397a02c7f834fcebb70670"
+    },
+    "PluginRepoRegistryProxy": {
+      "address": "0x4f21931068FdD66aCAa7F4d964A005f6A757382B",
+      "blockNumber": 3032217,
+      "deploymentTx": "0xdec459b292c94dc86e347dddd88a7bb93de719ec938736814a6d9e67711b2066"
+    },
+    "PluginRepoRegistryImplementation": {
+      "address": "0x0ed177839a7694536cd914cF653eA838a4286dF9",
+      "blockNumber": 3032215,
+      "deploymentTx": "0x98f7c633382e0a6bceea8d55272620a8e2da648aafa92e61a2ee49549a4d091c"
+    },
+    "PluginSetupProcessor": {
+      "address": "0x8Cc101741204a973b4BB03ED05Ad6c93BFA15DD0",
+      "blockNumber": 3032222,
+      "deploymentTx": "0x0ebcf7fae51e3e4b1ab532c2fb7d83fd9329b61ae2150004b95f93ee5d67eaff"
+    },
+    "PluginENSSubdomainRegistrarProxy": {
+      "address": "0x154F9EBD6993366920526D4CC4874943DCfCb622",
+      "blockNumber": 3032205,
+      "deploymentTx": "0x4cee31eb989cbe38283b9f9cf64d6365941cf316d6194648278842e89bde3f77"
+    },
+    "PluginENSSubdomainRegistrarImplementation": {
+      "address": "0x366694a6Af1C3aBe3AFedC24771BF3DdB0f9292E",
+      "blockNumber": 3032203,
+      "deploymentTx": "0xaeafef6905c553d8bbc5ae85fb0adf33a8ea2ac89038b10a0725a1a878aefb1e"
+    },
+    "PublicResolver": {
+      "address": "0xee28AbfD3036DE8ff48C8F112572Bf6d10ac839d",
+      "blockNumber": 3032184,
+      "deploymentTx": "0x55cc7ecc7034e20313fd590b2edc8f8ec2ce5251e53364833cb556bc99a69553"
+    },
+    "TokenVotingSetup": {
+      "address": "0x41A466DA6E42754064A0C0061038a4E48388b271",
+      "blockNumber": 3032248,
+      "deploymentTx": "0x6c77c13213266a2ec7f438747a72011911864c08c5e1a438c1b74f4733b07cb2"
+    },
+    "TokenVotingSetupImplementation": {
+      "address": "0xc32192A090d7c50B7043Ad8E94138de296B329Dd",
+      "blockNumber": 3032248,
+      "deploymentTx": "0x6c77c13213266a2ec7f438747a72011911864c08c5e1a438c1b74f4733b07cb2"
+    },
+    "AddresslistVotingRepoProxy": {
+      "address": "0xEB68197581f0818dEb5839E93d61b9F23A60e807",
+      "blockNumber": 3032260,
+      "deploymentTx": "0x93793b749e165c352c5b31f4def5d0ad5530988134ff9e7af5886f3c1625f4ac"
+    },
+    "AddresslistVotingRepoImplementation": {
+      "address": "0x70e12f02b1610a6ae067e252d8cc09c713bb35b4",
+      "blockNumber": 3032219,
+      "deploymentTx": "0xdde9dd03665822c6ed3f7eb5306f885cb658c660ac397a02c7f834fcebb70670"
+    },
+    "AdminRepoProxy": {
+      "address": "0xA68A15cE772958D570f6Dce8e6Ce22BC9689825d",
+      "blockNumber": 3032276,
+      "deploymentTx": "0xe18cff62fd6090f7c4af6b17447d4edb9db6e2ced4f55410abf2bc2df6447d26"
+    },
+    "AdminRepoImplementation": {
+      "address": "0x70e12f02b1610a6ae067e252d8cc09c713bb35b4",
+      "blockNumber": 3032219,
+      "deploymentTx": "0xdde9dd03665822c6ed3f7eb5306f885cb658c660ac397a02c7f834fcebb70670"
+    },
+    "ManagementDAOProxy": {
+      "address": "0x2efB821a0802819c2a01cB38818dd25247bA38b9",
+      "blockNumber": 3032169,
+      "deploymentTx": "0x6754585bcfbf3712d5e4284f1409bb68b6f183e24c509441fee7e47e083309b0"
+    },
+    "ManagementDAOImplementation": {
+      "address": "0x76D0Ff7625e8bB83884Acd6c52A29050278a603D",
+      "blockNumber": 3032167,
+      "deploymentTx": "0xfa8891d84ac423db546e45c65a42fe303a80ed20abb9fcd53cfad98dd14ef028"
+    },
+    "MultisigRepoProxy": {
+      "address": "0x050923eE7782cd0343a61d6cDED153af8aafEFC2",
+      "blockNumber": 3032283,
+      "deploymentTx": "0xd7588de77afe8dc5293244bc787f38f535d4099df6070d0b44dca991a32df46a"
+    },
+    "MultisigRepoImplementation": {
+      "address": "0x70e12f02b1610a6ae067e252d8cc09c713bb35b4",
+      "blockNumber": 3032219,
+      "deploymentTx": "0xdde9dd03665822c6ed3f7eb5306f885cb658c660ac397a02c7f834fcebb70670"
+    },
+    "TokenVotingRepoProxy": {
+      "address": "0x995A9563ea90231C6e25D98DF3caF54d3D96873B",
+      "blockNumber": 3032268,
+      "deploymentTx": "0xa5f65ce96b7e3f6d7ac0e759dbb28589ec286a86790b19dfc01b0c179ab23297"
+    },
+    "TokenVotingRepoImplementation": {
+      "address": "0x70e12f02b1610a6ae067e252d8cc09c713bb35b4",
+      "blockNumber": 3032219,
+      "deploymentTx": "0xdde9dd03665822c6ed3f7eb5306f885cb658c660ac397a02c7f834fcebb70670"
+    }
+  }
+}
+

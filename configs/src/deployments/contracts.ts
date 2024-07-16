@@ -11,6 +11,8 @@ import * as polygon from './json/polygon.json';
 import * as sepolia from './json/sepolia.json';
 import * as zksyncMainnet from './json/zksyncMainnet.json';
 import * as zksyncSepolia from './json/zksyncSepolia.json';
+import * as crab from './json/crab.json';
+import * as darwinia from './json/darwinia.json';
 import {NetworkDeployment, SupportedVersions} from './types';
 
 export {
@@ -26,6 +28,8 @@ export {
   arbitrumSepolia,
   zksyncSepolia,
   zksyncMainnet,
+  crab,
+  darwinia,
 };
 
 export const contracts: {
@@ -45,6 +49,8 @@ export const contracts: {
   arbitrumSepolia,
   zksyncSepolia,
   zksyncMainnet,
+  crab,
+  darwinia,
   local: {
     [SupportedVersions.V1_0_0]: {} as NetworkDeployment,
     [SupportedVersions.V1_3_0]: {} as NetworkDeployment,
