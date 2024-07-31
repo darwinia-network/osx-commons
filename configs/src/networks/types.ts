@@ -17,6 +17,7 @@ export enum SupportedNetworks {
   ARBITRUM_SEPOLIA = 'arbitrumSepolia',
   ZKSYNC_SEPOLIA = 'zksyncSepolia',
   ZKSYNC_MAINNET = 'zksyncMainnet',
+  KOI = 'koi',
   CRAB = 'crab',
   DARWINIA = 'darwinia',
   LOCAL = 'local',
