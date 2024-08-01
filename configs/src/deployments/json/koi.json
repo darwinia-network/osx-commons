@@ -1,40 +1,5 @@
 {
   "v1.3.0": {
-    "DAOBase": {
-      "address": "0x06f273FECc220e28879ddcCae4f0ec56B15c4807",
-      "deploymentTx": "0x8754086621e726c20b05aeceb9f420db21ec1ea4aa28ca24a66b28d1f26173a3",
-      "blockNumber": 499538
-    },
-    "PluginRepoBase": {
-      "address": "0x25588fBACA250af8DDD64A163f56b83D7b7C41c9",
-      "deploymentTx": "0x16d06413e10312c5dc85896f95c12abe43ae06f87d9f8c1c98ed79cfecfaff9c",
-      "blockNumber": 499535
-    },
-    "AddresslistVotingRepoImplementation": {
-      "address": "0x25588fBACA250af8DDD64A163f56b83D7b7C41c9",
-      "deploymentTx": "0x16d06413e10312c5dc85896f95c12abe43ae06f87d9f8c1c98ed79cfecfaff9c",
-      "blockNumber": 499535
-    },
-    "TokenVotingRepoImplementation": {
-      "address": "0x25588fBACA250af8DDD64A163f56b83D7b7C41c9",
-      "deploymentTx": "0x16d06413e10312c5dc85896f95c12abe43ae06f87d9f8c1c98ed79cfecfaff9c",
-      "blockNumber": 499535
-    },
-    "AdminRepoImplementation": {
-      "address": "0x25588fBACA250af8DDD64A163f56b83D7b7C41c9",
-      "deploymentTx": "0x16d06413e10312c5dc85896f95c12abe43ae06f87d9f8c1c98ed79cfecfaff9c",
-      "blockNumber": 499535
-    },
-    "MultisigRepoImplementation": {
-      "address": "0x25588fBACA250af8DDD64A163f56b83D7b7C41c9",
-      "deploymentTx": "0x16d06413e10312c5dc85896f95c12abe43ae06f87d9f8c1c98ed79cfecfaff9c",
-      "blockNumber": 499535
-    }
-  }
-}
-~/w/c/a/o/c/s/d/json (updates ✖1) zx fmt.mjs /Users/echo/workspace/contract/aragon/osx/packages/contracts/deployed_contracts_koi.json koi
-{
-  "v1.3.0": {
     "ManagementDAOImplementation": {
       "address": "0x975f48703fe1DaD6c867D81A833FF35673047Eaa",
       "deploymentTx": "0x374effdc53e1ef889d518b66a9cd714473545790100afd9b873dadb74fc4f7b5",
