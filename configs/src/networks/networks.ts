@@ -98,14 +98,20 @@ export const networks: NetworkConfigs = {
     name: SupportedNetworks.ZKSYNC_MAINNET,
     aliases: {},
   },
-  [SupportedNetworks.CRAB]: {
+  [SupportedNetworks.KOI]: {
     isTestnet: true,
+    chainId: 701,
+    name: SupportedNetworks.KOI,
+    aliases: {},
+  },
+  [SupportedNetworks.CRAB]: {
+    isTestnet: false,
     chainId: 44,
     name: SupportedNetworks.CRAB,
     aliases: {},
   },
   [SupportedNetworks.DARWINIA]: {
-    isTestnet: true,
+    isTestnet: false,
     chainId: 46,
     name: SupportedNetworks.DARWINIA,
     aliases: {},
@@ -133,6 +139,7 @@ export const networksAlchemyRpcUrl: NetworkRpcUrl = {
     'https://zksync-sepolia.g.alchemy.com/v2/',
   [SupportedNetworks.ZKSYNC_MAINNET]:
     'https://zksync-mainnet.g.alchemy.com/v2/',
+  [SupportedNetworks.KOI]: 'https://koi-rpc.darwinia.network',
   [SupportedNetworks.CRAB]: 'https://crab-rpc.darwinia.network',
   [SupportedNetworks.DARWINIA]: 'https://rpc.darwinia.network',
   [SupportedNetworks.LOCAL]: 'http://localhost:8545',
